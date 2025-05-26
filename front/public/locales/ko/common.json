@@ -1,0 +1,160 @@
+{
+  "title": "Dogether - 반려견과 함께하는 새로운 산책 경험",
+  "subtitle": "반려견과 함께 산책할 메이트를 찾아보세요!",
+  "description": "AI 매칭으로 완벽한 산책 파트너를 찾아보세요. 안전하고 즐거운 반려견 산책 커뮤니티.",
+  "downloadApp": "앱 다운로드하기",
+  "signUp": "회원가입",
+  "language": "언어",
+  "darkMode": "다크모드",
+  "home": {
+    "tagline": "반려견과 함께하는 새로운 산책 경험",
+    "valueStatement": "AI 매칭으로 찾는\n완벽한 산책 파트너",
+    "getStarted": "지금 시작하기",
+    "learnMore": "더 알아보기",
+    "activeUsers": "활성 사용자",
+    "matchingSuccess": "매칭 성공",
+    "userRating": "사용자 평점",
+    "altText": "반려견과 산책하는 여성"
+  },
+  "process": {
+    "title": "간단한 3단계",
+    "subtitle": "복잡한 과정 없이 바로 시작할 수 있습니다",
+    "step1": {
+      "title": "프로필 등록",
+      "description": "반려견의 정보를 입력하고 선호하는 산책 스타일을 설정해주세요"
+    },
+    "step2": {
+      "title": "AI 매칭",
+      "description": "머신러닝 알고리즘이 최적의 산책 파트너를 찾아드립니다"
+    },
+    "step3": {
+      "title": "안전한 만남",
+      "description": "검증된 사용자들과 안전한 환경에서 즐거운 산책을 시작하세요"
+    }
+  },
+  "features": {
+    "title": "핵심 기능",
+    "subtitle": "반려견과 보호자를 위한 차별화된 서비스",
+    "aiMatching": {
+      "title": "AI 스마트 매칭",
+      "description": "반려견의 성격, 크기, 활동량을 종합적으로 분석하여 가장 적합한 산책 파트너를 추천합니다."
+    },
+    "safety": {
+      "title": "안전 보장 시스템",
+      "description": "실명 인증, 평점 관리, 실시간 위치 공유로 안전하고 신뢰할 수 있는 만남을 보장합니다."
+    },
+    "routing": {
+      "title": "최적 루트 추천",
+      "description": "날씨, 교통상황, 반려견 상태를 고려하여 최적의 산책 경로를 실시간으로 제안합니다."
+    },
+    "health": {
+      "title": "건강 모니터링",
+      "description": "산책 기록, 운동량, 칼로리 소모를 자동으로 추적하여 반려견의 건강 상태를 체계적으로 관리합니다."
+    },
+    "rewards": {
+      "title": "리워드 프로그램",
+      "description": "산책 활동에 따라 포인트를 적립하고 다양한 혜택과 할인을 받을 수 있습니다."
+    },
+    "community": {
+      "title": "커뮤니티",
+      "description": "지역별 반려견 커뮤니티에서 정보를 공유하고 오프라인 모임에도 참여할 수 있습니다."
+    }
+  },
+  "testimonials": {
+    "title": "사용자 후기",
+    "subtitle": "실제 사용자들의 경험을 확인해보세요",
+    "review1": {
+      "text": "매칭 정확도가 놀라울 정도예요. 우리 골든리트리버와 성격이 딱 맞는 친구들만 소개해줘서 매번 즐거운 산책을 하고 있어요.",
+      "author": "김민지",
+      "role": "골든리트리버 몽이 보호자",
+      "avatar": "김"
+    },
+    "review2": {
+      "text": "안전 시스템이 정말 잘 되어있어요. 처음 만나는 분들이지만 평점과 인증 덕분에 안심하고 만날 수 있었습니다.",
+      "author": "박서준",
+      "role": "치와와 초코 보호자",
+      "avatar": "박"
+    },
+    "review3": {
+      "text": "우리 동네에 이렇게 많은 반려견 친구들이 있는지 몰랐어요. 이제 매일 새로운 친구들과 만나서 정말 즐거워요!",
+      "author": "이지은",
+      "role": "래브라도 루미 보호자",
+      "avatar": "이"
+    },
+    "review4": {
+      "text": "산책 기록 기능이 정말 유용해요. 우리 아이의 건강 상태를 체계적으로 관리할 수 있어서 만족스럽습니다.",
+      "author": "최영수",
+      "role": "시바견 하루 보호자",
+      "avatar": "최"
+    },
+    "review5": {
+      "text": "처음엔 반려견끼리 안 맞으면 어쩌나 걱정했는데, AI 매칭이 정말 정확해서 지금까지 한 번도 문제없었어요.",
+      "author": "정미영",
+      "role": "포메라니안 별이 보호자",
+      "avatar": "정"
+    }
+  },
+  "cta": {
+    "title": "지금 시작해보세요",
+    "subtitle": "베타 서비스 참여자에게는 특별한 혜택을 드립니다",
+    "button": "무료로 시작하기"
+  },
+  "signup": {
+    "title": "회원가입 - Dogether",
+    "description": "Dogether 회원가입 - 반려견과 함께하는 새로운 산책 경험을 시작하세요",
+    "formTitle": "Dogether 시작하기",
+    "formSubtitle": "반려견과 함께하는 새로운 산책 경험을 시작해보세요",
+    "email": "이메일",
+    "emailPlaceholder": "이메일을 입력하세요",
+    "password": "비밀번호",
+    "passwordPlaceholder": "비밀번호를 입력하세요",
+    "passwordConfirm": "비밀번호 확인",
+    "passwordConfirmPlaceholder": "비밀번호를 다시 입력하세요",
+    "submitButton": "회원가입",
+    "submitting": "처리 중...",
+    "divider": "또는",
+    "googleSignup": "Google로 가입하기",
+    "kakaoSignup": "카카오로 가입하기",
+    "naverSignup": "네이버로 가입하기",
+    "loginPrompt": "이미 계정이 있으신가요?",
+    "loginLink": "로그인하기",
+    "errors": {
+      "invalidEmail": "올바른 이메일 형식이 아닙니다",
+      "weakPassword": "비밀번호는 영문 대소문자와 숫자를 포함해야 합니다",
+      "passwordMismatch": "비밀번호가 일치하지 않습니다"
+    },
+    "messages": {
+      "signupSuccess": "회원가입이 완료되었습니다!",
+      "signupError": "회원가입에 실패했습니다. 다시 시도해주세요.",
+      "socialSignupPending": "회원가입 기능은 준비 중입니다.",
+      "verificationEmailSent": "인증 이메일이 발송되었습니다! 이메일함을 확인하여 인증을 완료해주세요.",
+      "verificationEmailError": "인증 이메일 발송에 실패했습니다. 다시 시도해주세요."
+    }
+  },
+  "footer": {
+    "description": "반려견과 함께하는 즐거운 산책 시간을 만들어보세요. 새로운 친구들과 소중한 추억을 쌓아가는 공간입니다.",
+    "services": {
+      "title": "서비스",
+      "features": "주요 기능",
+      "download": "앱 다운로드",
+      "safety": "안전 가이드",
+      "community": "커뮤니티"
+    },
+    "support": {
+      "title": "고객지원",
+      "help": "도움말",
+      "contact": "문의하기",
+      "faq": "자주 묻는 질문",
+      "report": "신고하기"
+    },
+    "company": {
+      "title": "회사",
+      "about": "회사 소개",
+      "careers": "채용 정보",
+      "press": "보도자료",
+      "terms": "이용약관",
+      "privacy": "개인정보처리방침"
+    },
+    "copyright": "© 2024 Dogether. All rights reserved."
+  }
+} 
