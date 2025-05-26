@@ -1,0 +1,38 @@
+# DoGether Backend Dependencies
+# 설치 방법: npm install
+
+# === Core Dependencies ===
+express@^4.21.2                # 웹 프레임워크
+cors@^2.8.5                    # CORS 미들웨어
+helmet@^8.0.0                  # 보안 미들웨어
+morgan@^1.10.0                 # HTTP 요청 로거
+dotenv@^16.5.0                 # 환경변수 관리
+
+# === Authentication & Security ===
+bcryptjs@^2.4.3                # 비밀번호 해싱
+jsonwebtoken@^9.0.2            # JWT 토큰 생성/검증
+
+# === Database ===
+pg@^8.16.0                     # PostgreSQL 클라이언트
+
+# === Email Service ===
+nodemailer@^6.9.18             # 이메일 발송
+
+# === Utilities ===
+node-fetch@^3.3.2              # HTTP 클라이언트 (테스트용)
+
+# === Development Dependencies ===
+@types/node@^22.10.2           # Node.js 타입 정의
+nodemon@^3.1.9                 # 개발 서버 자동 재시작
+
+# === 설치 명령어 ===
+# npm install express cors helmet morgan dotenv bcryptjs jsonwebtoken pg nodemailer node-fetch
+# npm install --save-dev @types/node nodemon
+
+# === 환경 설정 ===
+# .env 파일에 다음 변수들을 설정해야 합니다:
+# - DATABASE_URL=postgresql://username:password@localhost:5432/database_name
+# - JWT_SECRET=your_jwt_secret_key
+# - EMAIL_USER=your_email@gmail.com
+# - EMAIL_PASS=your_app_password
+# - DISABLE_EMAIL=true (개발 환경에서 이메일 발송 비활성화) 

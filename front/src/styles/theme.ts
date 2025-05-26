@@ -1,0 +1,137 @@
+export const lightColors = {
+  primary: {
+    main: '#667eea',
+    light: '#a5b4fc',
+    dark: '#4c51bf',
+  },
+  secondary: {
+    main: '#764ba2',
+    light: '#b794f6',
+    dark: '#553c9a',
+  },
+  gray: {
+    50: '#f7fafc',
+    100: '#edf2f7',
+    200: '#e2e8f0',
+    300: '#cbd5e0',
+    400: '#a0aec0',
+    500: '#718096',
+    600: '#4a5568',
+    700: '#2d3748',
+    800: '#1a202c',
+    900: '#171923',
+  },
+  white: '#ffffff',
+  black: '#000000',
+  success: '#48bb78',
+  warning: '#ed8936',
+  error: '#f56565',
+  background: '#ffffff',
+  surface: '#ffffff',
+  text: {
+    primary: '#1a202c',
+    secondary: '#4a5568',
+    disabled: '#a0aec0',
+  },
+};
+
+export const darkColors = {
+  primary: {
+    main: '#667eea',
+    light: '#a5b4fc',
+    dark: '#4c51bf',
+  },
+  secondary: {
+    main: '#764ba2',
+    light: '#b794f6',
+    dark: '#553c9a',
+  },
+  gray: {
+    50: '#171923',
+    100: '#1a202c',
+    200: '#2d3748',
+    300: '#4a5568',
+    400: '#718096',
+    500: '#a0aec0',
+    600: '#cbd5e0',
+    700: '#e2e8f0',
+    800: '#edf2f7',
+    900: '#f7fafc',
+  },
+  white: '#1a202c',
+  black: '#ffffff',
+  success: '#68d391',
+  warning: '#fbb845',
+  error: '#fc8181',
+  background: '#171923',
+  surface: '#1a202c',
+  text: {
+    primary: '#f7fafc',
+    secondary: '#e2e8f0',
+    disabled: '#4a5568',
+  },
+};
+
+export const theme = {
+  colors: lightColors,
+  fonts: {
+    body: "'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif",
+    heading: "'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif",
+  },
+  fontSizes: {
+    xs: '0.75rem',
+    sm: '0.875rem',
+    md: '1rem',
+    lg: '1.125rem',
+    xl: '1.25rem',
+    '2xl': '1.5rem',
+    '3xl': '1.875rem',
+    '4xl': '2.25rem',
+    '5xl': '3rem',
+  },
+  fontWeights: {
+    light: 300,
+    normal: 400,
+    medium: 500,
+    semibold: 600,
+    bold: 700,
+  },
+  space: {
+    1: '0.25rem',
+    2: '0.5rem',
+    3: '0.75rem',
+    4: '1rem',
+    5: '1.25rem',
+    6: '1.5rem',
+    8: '2rem',
+    10: '2.5rem',
+    12: '3rem',
+    16: '4rem',
+    20: '5rem',
+  },
+  breakpoints: {
+    sm: '640px',
+    md: '768px',
+    lg: '1024px',
+    xl: '1280px',
+  },
+  shadows: {
+    sm: '0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)',
+    md: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+    lg: '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
+    xl: '0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
+  },
+  radii: {
+    sm: '0.125rem',
+    md: '0.375rem',
+    lg: '0.5rem',
+    xl: '0.75rem',
+    '2xl': '1rem',
+    full: '9999px',
+  },
+};
+
+export const darkTheme = {
+  ...theme,
+  colors: darkColors,
+}; 
