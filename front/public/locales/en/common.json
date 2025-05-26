@@ -1,0 +1,160 @@
+{
+  "title": "Dogether - A New Dog Walking Experience",
+  "subtitle": "Find a mate to walk with your dog!",
+  "description": "Find your perfect walking partner with AI matching. A safe and enjoyable pet walking community.",
+  "downloadApp": "Download App",
+  "signUp": "Sign Up",
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "home": {
+    "tagline": "A New Dog Walking Experience",
+    "valueStatement": "Find Perfect Walking Partners\nwith AI Matching",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "activeUsers": "Active Users",
+    "matchingSuccess": "Matches Made",
+    "userRating": "User Rating",
+    "altText": "Woman walking with dog"
+  },
+  "process": {
+    "title": "3 Simple Steps",
+    "subtitle": "Get started right away without any complicated process",
+    "step1": {
+      "title": "Create Profile",
+      "description": "Enter your dog's information and set your preferred walking style"
+    },
+    "step2": {
+      "title": "AI Matching",
+      "description": "Machine learning algorithm finds the optimal walking partner for you"
+    },
+    "step3": {
+      "title": "Safe Meetup",
+      "description": "Start enjoyable walks with verified users in a safe environment"
+    }
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "Specialized service for dogs and guardians",
+    "aiMatching": {
+      "title": "AI Smart Matching",
+      "description": "Comprehensively analyzes your dog's personality, size, and activity level to recommend the most suitable walking partner."
+    },
+    "safety": {
+      "title": "Safety Guarantee System",
+      "description": "Guarantees safe and reliable meetings through real-name verification, rating management, and real-time location sharing."
+    },
+    "routing": {
+      "title": "Optimal Route Recommendation",
+      "description": "Suggests optimal walking routes in real-time considering weather, traffic conditions, and dog status."
+    },
+    "health": {
+      "title": "Health Monitoring",
+      "description": "Systematically manages your dog's health by automatically tracking walk records, exercise amount, and calorie consumption."
+    },
+    "rewards": {
+      "title": "Reward Program",
+      "description": "Earn points based on walking activities and receive various benefits and discounts."
+    },
+    "community": {
+      "title": "Community",
+      "description": "Share information in local dog communities and participate in offline meetups."
+    }
+  },
+  "testimonials": {
+    "title": "User Reviews",
+    "subtitle": "Check out real user experiences",
+    "review1": {
+      "text": "The matching accuracy is amazing. They only introduce dogs that perfectly match our Golden Retriever's personality, so we have enjoyable walks every time.",
+      "author": "Kim Min-ji",
+      "role": "Guardian of Golden Retriever Mong",
+      "avatar": "K"
+    },
+    "review2": {
+      "text": "The safety system is really well done. Even though they're people I meet for the first time, I can meet them with peace of mind thanks to ratings and verification.",
+      "author": "Park Seo-jun",
+      "role": "Guardian of Chihuahua Choco",
+      "avatar": "P"
+    },
+    "review3": {
+      "text": "I didn't know there were so many dog friends in our neighborhood. Now I meet new friends every day and it's so enjoyable!",
+      "author": "Lee Ji-eun",
+      "role": "Guardian of Labrador Rumi",
+      "avatar": "L"
+    },
+    "review4": {
+      "text": "The walk record feature is really useful. I can systematically manage my baby's health condition, so I'm satisfied.",
+      "author": "Choi Young-su",
+      "role": "Guardian of Shiba Inu Haru",
+      "avatar": "C"
+    },
+    "review5": {
+      "text": "At first I worried what if the dogs didn't get along, but AI matching is so accurate that there's never been any problems so far.",
+      "author": "Jung Mi-young",
+      "role": "Guardian of Pomeranian Star",
+      "avatar": "J"
+    }
+  },
+  "cta": {
+    "title": "Get Started Now",
+    "subtitle": "Special benefits are provided to beta service participants",
+    "button": "Start for Free"
+  },
+  "signup": {
+    "title": "Sign Up - Dogether",
+    "description": "Dogether Sign Up - Start a new dog walking experience",
+    "formTitle": "Get Started with Dogether",
+    "formSubtitle": "Start a new dog walking experience with your pet",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "passwordConfirm": "Confirm Password",
+    "passwordConfirmPlaceholder": "Re-enter your password",
+    "submitButton": "Sign Up",
+    "submitting": "Processing...",
+    "divider": "or",
+    "googleSignup": "Sign up with Google",
+    "kakaoSignup": "Sign up with Kakao",
+    "naverSignup": "Sign up with Naver",
+    "loginPrompt": "Already have an account?",
+    "loginLink": "Sign In",
+    "errors": {
+      "invalidEmail": "Please enter a valid email address",
+      "weakPassword": "Password must contain uppercase, lowercase letters and numbers",
+      "passwordMismatch": "Passwords do not match"
+    },
+    "messages": {
+      "signupSuccess": "Sign up completed successfully!",
+      "signupError": "Sign up failed. Please try again.",
+      "socialSignupPending": "sign up feature is coming soon.",
+      "verificationEmailSent": "Verification email has been sent! Please check your email and complete the verification.",
+      "verificationEmailError": "Failed to send verification email. Please try again."
+    }
+  },
+  "footer": {
+    "description": "Create enjoyable walking time with your dog. A space to build precious memories with new friends.",
+    "services": {
+      "title": "Services",
+      "features": "Key Features",
+      "download": "Download App",
+      "safety": "Safety Guide",
+      "community": "Community"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help Center",
+      "contact": "Contact Us",
+      "faq": "FAQ",
+      "report": "Report"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    },
+    "copyright": "© 2024 Dogether. All rights reserved."
+  }
+} 

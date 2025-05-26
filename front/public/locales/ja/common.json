@@ -1,0 +1,160 @@
+{
+  "title": "Dogether - 愛犬との新しい散歩体験",
+  "subtitle": "愛犬と一緒に散歩するメイトを見つけましょう！",
+  "description": "AIマッチングで完璧な散歩パートナーを見つけてください。安全で楽しいペット散歩コミュニティ。",
+  "downloadApp": "アプリをダウンロード",
+  "signUp": "会員登録",
+  "language": "言語",
+  "darkMode": "ダークモード",
+  "home": {
+    "tagline": "愛犬との新しい散歩体験",
+    "valueStatement": "AIマッチングで見つける\n完璧な散歩パートナー",
+    "getStarted": "今すぐ始める",
+    "learnMore": "詳しく見る",
+    "activeUsers": "アクティブユーザー",
+    "matchingSuccess": "マッチング成功",
+    "userRating": "ユーザー評価",
+    "altText": "犬と散歩する女性"
+  },
+  "process": {
+    "title": "簡単な3ステップ",
+    "subtitle": "複雑な手順なしで今すぐ始められます",
+    "step1": {
+      "title": "プロフィール登録",
+      "description": "愛犬の情報を入力し、お好みの散歩スタイルを設定してください"
+    },
+    "step2": {
+      "title": "AIマッチング",
+      "description": "機械学習アルゴリズムが最適な散歩パートナーを見つけます"
+    },
+    "step3": {
+      "title": "安全な出会い",
+      "description": "認証されたユーザーと安全な環境で楽しい散歩を始めましょう"
+    }
+  },
+  "features": {
+    "title": "主要機能",
+    "subtitle": "愛犬と飼い主のための差別化されたサービス",
+    "aiMatching": {
+      "title": "AIスマートマッチング",
+      "description": "愛犬の性格、サイズ、活動量を総合的に分析し、最も適した散歩パートナーを推薦します。"
+    },
+    "safety": {
+      "title": "安全保障システム",
+      "description": "実名認証、評価管理、リアルタイム位置共有で安全で信頼できる出会いを保障します。"
+    },
+    "routing": {
+      "title": "最適ルート推薦",
+      "description": "天気、交通状況、愛犬の状態を考慮して最適な散歩ルートをリアルタイムで提案します。"
+    },
+    "health": {
+      "title": "健康モニタリング",
+      "description": "散歩記録、運動量、カロリー消費を自動で追跡し、愛犬の健康状態を体系的に管理します。"
+    },
+    "rewards": {
+      "title": "リワードプログラム",
+      "description": "散歩活動に応じてポイントを貯めて、様々な特典と割引を受けることができます。"
+    },
+    "community": {
+      "title": "コミュニティ",
+      "description": "地域別愛犬コミュニティで情報を共有し、オフライン集まりにも参加できます。"
+    }
+  },
+  "testimonials": {
+    "title": "ユーザーレビュー",
+    "subtitle": "実際のユーザーの体験を確認してください",
+    "review1": {
+      "text": "マッチング精度が驚くほどです。うちのゴールデンレトリバーと性格がピッタリ合う友達だけを紹介してくれて、毎回楽しい散歩をしています。",
+      "author": "キム・ミンジ",
+      "role": "ゴールデンレトリバー モンの保護者",
+      "avatar": "キ"
+    },
+    "review2": {
+      "text": "安全システムが本当によくできています。初めて会う方々ですが、評価と認証のおかげで安心して会えました。",
+      "author": "パク・ソジュン",
+      "role": "チワワ チョコの保護者",
+      "avatar": "パ"
+    },
+    "review3": {
+      "text": "うちの地域にこんなにたくさんの愛犬友達がいるとは知りませんでした。今は毎日新しい友達と会えて本当に楽しいです！",
+      "author": "イ・ジウン",
+      "role": "ラブラドール ルミの保護者",
+      "avatar": "イ"
+    },
+    "review4": {
+      "text": "散歩記録機能が本当に便利です。うちの子の健康状態を体系的に管理できて満足しています。",
+      "author": "チェ・ヨンス",
+      "role": "柴犬 ハルの保護者",
+      "avatar": "チ"
+    },
+    "review5": {
+      "text": "最初は愛犬同士が合わなかったらどうしようと心配しましたが、AIマッチングが本当に正確で今まで一度も問題ありませんでした。",
+      "author": "チョン・ミヨン",
+      "role": "ポメラニアン ビョルの保護者",
+      "avatar": "チ"
+    }
+  },
+  "cta": {
+    "title": "今すぐ始めてみてください",
+    "subtitle": "ベータサービス参加者には特別な特典をお送りします",
+    "button": "無料で始める"
+  },
+  "signup": {
+    "title": "会員登録 - Dogether",
+    "description": "Dogether 会員登録 - 愛犬との新しい散歩体験を始めましょう",
+    "formTitle": "Dogetherを始める",
+    "formSubtitle": "愛犬との新しい散歩体験を始めてみましょう",
+    "email": "メールアドレス",
+    "emailPlaceholder": "メールアドレスを入力してください",
+    "password": "パスワード",
+    "passwordPlaceholder": "パスワードを入力してください",
+    "passwordConfirm": "パスワード確認",
+    "passwordConfirmPlaceholder": "パスワードを再入力してください",
+    "submitButton": "会員登録",
+    "submitting": "処理中...",
+    "divider": "または",
+    "googleSignup": "Googleで登録",
+    "kakaoSignup": "カカオで登録",
+    "naverSignup": "ネイバーで登録",
+    "loginPrompt": "すでにアカウントをお持ちですか？",
+    "loginLink": "ログイン",
+    "errors": {
+      "invalidEmail": "正しいメールアドレス形式ではありません",
+      "weakPassword": "パスワードは英大文字・小文字・数字を含む必要があります",
+      "passwordMismatch": "パスワードが一致しません"
+    },
+    "messages": {
+      "signupSuccess": "会員登録が完了しました！",
+      "signupError": "会員登録に失敗しました。再度お試しください。",
+      "socialSignupPending": "会員登録機能は準備中です。",
+      "verificationEmailSent": "認証メールを送信いたしました！メールをご確認いただき、認証を完了してください。",
+      "verificationEmailError": "認証メールの送信に失敗しました。もう一度お試しください。"
+    }
+  },
+  "footer": {
+    "description": "愛犬との楽しい散歩時間を作ってみてください。新しい友達と大切な思い出を積み重ねる空間です。",
+    "services": {
+      "title": "サービス",
+      "features": "主要機能",
+      "download": "アプリダウンロード",
+      "safety": "安全ガイド",
+      "community": "コミュニティ"
+    },
+    "support": {
+      "title": "カスタマーサポート",
+      "help": "ヘルプ",
+      "contact": "お問い合わせ",
+      "faq": "よくある質問",
+      "report": "報告する"
+    },
+    "company": {
+      "title": "会社",
+      "about": "会社について",
+      "careers": "採用情報",
+      "press": "プレスリリース",
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー"
+    },
+    "copyright": "© 2024 Dogether. All rights reserved."
+  }
+} 

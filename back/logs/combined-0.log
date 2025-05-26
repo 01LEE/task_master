@@ -1,0 +1,1991 @@
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:183:20)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+2025-05-26T11:43:36: 🚀 DoGether Backend running on http://localhost:5000
+2025-05-26T11:43:36: 📧 Email service: nodemailer
+2025-05-26T11:43:36: ✅ Email service connected successfully
+2025-05-26T11:47:44: 🚀 DoGether Backend running on http://localhost:5000
+2025-05-26T11:47:44: 📧 Email service: nodemailer
+2025-05-26T11:47:45: ✅ Email service connected successfully
+2025-05-26T11:47:54: 🚀 DoGether Backend running on http://localhost:5000
+2025-05-26T11:47:54: 📧 Email service: nodemailer
+2025-05-26T11:47:55: ✅ Email service connected successfully
+2025-05-26T11:48:01: 🚀 DoGether Backend running on http://localhost:5000
+2025-05-26T11:48:01: 📧 Email service: nodemailer
+2025-05-26T11:48:02: ✅ Email service connected successfully
+2025-05-26T11:48:10: ============================================================
+2025-05-26T11:48:10: 🚀 DoGether Backend Server Started!
+2025-05-26T11:48:10: 🌐 Server URL: http://localhost:5000
+2025-05-26T11:48:10: 📧 Email Service: nodemailer
+2025-05-26T11:48:10: ⚡ Environment: development
+2025-05-26T11:48:10: ============================================================
+2025-05-26T11:48:11: ✅ Email service connected successfully
+2025-05-26T12:19:57: ============================================================
+2025-05-26T12:19:57: 🚀 DoGether Backend Server Started!
+2025-05-26T12:19:57: 🌐 Server URL: http://localhost:5000
+2025-05-26T12:19:57: 📧 Email Service: nodemailer
+2025-05-26T12:19:57: ⚡ Environment: development
+2025-05-26T12:19:57: ============================================================
+2025-05-26T12:19:58: ✅ Email service connected successfully
+2025-05-26T12:20:30: 📮 Gmail 발송 완료! 메시지 ID: <8e125f3e-44f4-5371-5041-11fafdbb7931@gmail.com>
+2025-05-26T12:20:30: 🎉 이메일 인증 발송 성공! 📧 tkaqkrrhf11@gmail.com → 인증 이메일이 발송되었습니다.
+2025-05-26T12:20:30: ::1 - - [26/May/2025:03:20:30 +0000] "POST /api/auth/send-verification HTTP/1.1" 200 65 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T12:20:39: ============================================================
+2025-05-26T12:20:39: 🚀 DoGether Backend Server Started!
+2025-05-26T12:20:39: 🌐 Server URL: http://localhost:5000
+2025-05-26T12:20:39: 📧 Email Service: nodemailer
+2025-05-26T12:20:39: ⚡ Environment: development
+2025-05-26T12:20:39: ============================================================
+2025-05-26T12:20:39: ✅ Email service connected successfully
+2025-05-26T12:20:45: 📮 Gmail 발송 완료! 메시지 ID: <01c00263-551f-3949-0785-92f545498300@gmail.com>
+2025-05-26T12:20:45: 🎉 이메일 인증 발송 성공! 📧 tkaqkrrhf11@gmail.com → 인증 이메일이 발송되었습니다.
+2025-05-26T12:20:45: ::1 - - [26/May/2025:03:20:45 +0000] "POST /api/auth/send-verification HTTP/1.1" 200 65 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T12:21:23: ✅ 이메일 인증 완료! 🎊 tkaqkrrhf11@gmail.com → 2025. 5. 26. 오후 12:21:23에 성공적으로 인증되었습니다.
+2025-05-26T12:21:23: ::1 - - [26/May/2025:03:21:23 +0000] "POST /api/auth/verify-email HTTP/1.1" 200 88 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T12:21:46: ============================================================
+2025-05-26T12:21:46: 🚀 DoGether Backend Server Started!
+2025-05-26T12:21:46: 🌐 Server URL: http://localhost:5000
+2025-05-26T12:21:46: 📧 Email Service: nodemailer
+2025-05-26T12:21:46: ⚡ Environment: development
+2025-05-26T12:21:46: ============================================================
+2025-05-26T12:21:48: ✅ Email service connected successfully
+2025-05-26T12:22:11: ============================================================
+2025-05-26T12:22:11: 🚀 DoGether Backend Server Started!
+2025-05-26T12:22:11: 🌐 Server URL: http://localhost:5000
+2025-05-26T12:22:11: 📧 Email Service: nodemailer
+2025-05-26T12:22:11: ⚡ Environment: development
+2025-05-26T12:22:11: ============================================================
+2025-05-26T12:22:13: ✅ Email service connected successfully
+2025-05-26T14:21:15: ============================================================
+2025-05-26T14:21:15: 🚀 DoGether Backend Server Started!
+2025-05-26T14:21:15: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:21:15: 📧 Email Service: nodemailer
+2025-05-26T14:21:15: ⚡ Environment: development
+2025-05-26T14:21:15: ============================================================
+2025-05-26T14:21:16: ✅ Email service connected successfully
+2025-05-26T14:21:26: ============================================================
+2025-05-26T14:21:26: 🚀 DoGether Backend Server Started!
+2025-05-26T14:21:26: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:21:26: 📧 Email Service: nodemailer
+2025-05-26T14:21:26: ⚡ Environment: development
+2025-05-26T14:21:26: ============================================================
+2025-05-26T14:21:27: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2342d6cf02dsm25431965ad.87 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2342d6cf02dsm25431965ad.87 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:22:11: ============================================================
+2025-05-26T14:22:11: 🚀 DoGether Backend Server Started!
+2025-05-26T14:22:11: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:22:11: 📧 Email Service: nodemailer
+2025-05-26T14:22:11: ⚡ Environment: development
+2025-05-26T14:22:11: ============================================================
+2025-05-26T14:22:11: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341cc89bfcsm31848215ad.214 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341cc89bfcsm31848215ad.214 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:23:07: ============================================================
+2025-05-26T14:23:07: 🚀 DoGether Backend Server Started!
+2025-05-26T14:23:07: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:23:07: 📧 Email Service: nodemailer
+2025-05-26T14:23:07: ⚡ Environment: development
+2025-05-26T14:23:07: ============================================================
+2025-05-26T14:23:08: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9829cddsm16929585b3a.97 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9829cddsm16929585b3a.97 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:23:11: ============================================================
+2025-05-26T14:23:11: 🚀 DoGether Backend Server Started!
+2025-05-26T14:23:11: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:23:11: 📧 Email Service: nodemailer
+2025-05-26T14:23:11: ⚡ Environment: development
+2025-05-26T14:23:11: ============================================================
+2025-05-26T14:23:13: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31114fe8e4bsm3736023a91.28 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31114fe8e4bsm3736023a91.28 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:23:47: ============================================================
+2025-05-26T14:23:47: 🚀 DoGether Backend Server Started!
+2025-05-26T14:23:47: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:23:47: 📧 Email Service: nodemailer
+2025-05-26T14:23:47: ⚡ Environment: development
+2025-05-26T14:23:47: ============================================================
+2025-05-26T14:23:48: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eb09fbb0sm16341086a12.66 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eb09fbb0sm16341086a12.66 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:24:08: ============================================================
+2025-05-26T14:24:08: 🚀 DoGether Backend Server Started!
+2025-05-26T14:24:08: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:24:08: 📧 Email Service: nodemailer
+2025-05-26T14:24:08: ⚡ Environment: development
+2025-05-26T14:24:08: ============================================================
+2025-05-26T14:24:09: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eadc0889sm16217030a12.0 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eadc0889sm16217030a12.0 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:24:10: ============================================================
+2025-05-26T14:24:10: 🚀 DoGether Backend Server Started!
+2025-05-26T14:24:10: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:24:10: 📧 Email Service: nodemailer
+2025-05-26T14:24:10: ⚡ Environment: development
+2025-05-26T14:24:10: ============================================================
+2025-05-26T14:24:11: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23401ab6c20sm41988625ad.66 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23401ab6c20sm41988625ad.66 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:24:24: ============================================================
+2025-05-26T14:24:24: 🚀 DoGether Backend Server Started!
+2025-05-26T14:24:24: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:24:24: 📧 Email Service: nodemailer
+2025-05-26T14:24:24: ⚡ Environment: development
+2025-05-26T14:24:24: ============================================================
+2025-05-26T14:24:25: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf8a199sm14067471a12.33 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf8a199sm14067471a12.33 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:24:26: ============================================================
+2025-05-26T14:24:26: 🚀 DoGether Backend Server Started!
+2025-05-26T14:24:26: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:24:26: 📧 Email Service: nodemailer
+2025-05-26T14:24:26: ⚡ Environment: development
+2025-05-26T14:24:26: ============================================================
+2025-05-26T14:24:26: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a98a2146sm16259132b3a.160 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a98a2146sm16259132b3a.160 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:24:44: ============================================================
+2025-05-26T14:24:44: 🚀 DoGether Backend Server Started!
+2025-05-26T14:24:44: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:24:44: 📧 Email Service: nodemailer
+2025-05-26T14:24:44: ⚡ Environment: development
+2025-05-26T14:24:44: ============================================================
+2025-05-26T14:24:44: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310cec3f320sm6916459a91.9 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310cec3f320sm6916459a91.9 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:25:12: ============================================================
+2025-05-26T14:25:12: 🚀 DoGether Backend Server Started!
+2025-05-26T14:25:12: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:25:12: 📧 Email Service: nodemailer
+2025-05-26T14:25:12: ⚡ Environment: development
+2025-05-26T14:25:12: ============================================================
+2025-05-26T14:25:13: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310f127a8b1sm5513459a91.7 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310f127a8b1sm5513459a91.7 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:25:31: ============================================================
+2025-05-26T14:25:31: 🚀 DoGether Backend Server Started!
+2025-05-26T14:25:31: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:25:31: 📧 Email Service: nodemailer
+2025-05-26T14:25:31: ⚡ Environment: development
+2025-05-26T14:25:31: ============================================================
+2025-05-26T14:25:31: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23417e3f4c6sm34315445ad.152 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23417e3f4c6sm34315445ad.152 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:25:47: ============================================================
+2025-05-26T14:25:47: 🚀 DoGether Backend Server Started!
+2025-05-26T14:25:47: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:25:47: 📧 Email Service: nodemailer
+2025-05-26T14:25:47: ⚡ Environment: development
+2025-05-26T14:25:47: ============================================================
+2025-05-26T14:25:49: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a97398ecsm16260495b3a.79 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a97398ecsm16260495b3a.79 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:04: ============================================================
+2025-05-26T14:26:04: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:04: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:04: 📧 Email Service: nodemailer
+2025-05-26T14:26:04: ⚡ Environment: development
+2025-05-26T14:26:04: ============================================================
+2025-05-26T14:26:05: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341cbb7963sm32009365ad.188 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341cbb7963sm32009365ad.188 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:19: ============================================================
+2025-05-26T14:26:19: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:19: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:19: 📧 Email Service: nodemailer
+2025-05-26T14:26:19: ⚡ Environment: development
+2025-05-26T14:26:19: ============================================================
+2025-05-26T14:26:20: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-233fbb3c7acsm44489155ad.57 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-233fbb3c7acsm44489155ad.57 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:27: ============================================================
+2025-05-26T14:26:27: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:27: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:27: 📧 Email Service: nodemailer
+2025-05-26T14:26:27: ⚡ Environment: development
+2025-05-26T14:26:27: ============================================================
+2025-05-26T14:26:28: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31134be6843sm2662113a91.20 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31134be6843sm2662113a91.20 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:32: ============================================================
+2025-05-26T14:26:32: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:32: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:32: 📧 Email Service: nodemailer
+2025-05-26T14:26:32: ⚡ Environment: development
+2025-05-26T14:26:32: ============================================================
+2025-05-26T14:26:34: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf5a2cesm16349339a12.9 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf5a2cesm16349339a12.9 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:36: ============================================================
+2025-05-26T14:26:36: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:36: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:36: 📧 Email Service: nodemailer
+2025-05-26T14:26:36: ⚡ Environment: development
+2025-05-26T14:26:36: ============================================================
+2025-05-26T14:26:37: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341e8ca46bsm31064495ad.115 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341e8ca46bsm31064495ad.115 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:38: ============================================================
+2025-05-26T14:26:38: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:38: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:38: 📧 Email Service: nodemailer
+2025-05-26T14:26:38: ⚡ Environment: development
+2025-05-26T14:26:38: ============================================================
+2025-05-26T14:26:39: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310f8faa31bsm4605940a91.19 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310f8faa31bsm4605940a91.19 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:50: ============================================================
+2025-05-26T14:26:50: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:50: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:50: 📧 Email Service: nodemailer
+2025-05-26T14:26:50: ⚡ Environment: development
+2025-05-26T14:26:50: ============================================================
+2025-05-26T14:26:51: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3117d6bc2c8sm598337a91.49 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3117d6bc2c8sm598337a91.49 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:26:52: ============================================================
+2025-05-26T14:26:52: 🚀 DoGether Backend Server Started!
+2025-05-26T14:26:52: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:26:52: 📧 Email Service: nodemailer
+2025-05-26T14:26:52: ⚡ Environment: development
+2025-05-26T14:26:52: ============================================================
+2025-05-26T14:26:52: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4e9713bsm160013185ad.150 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-231d4e9713bsm160013185ad.150 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:27:56: ============================================================
+2025-05-26T14:27:56: 🚀 DoGether Backend Server Started!
+2025-05-26T14:27:56: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:27:56: 📧 Email Service: nodemailer
+2025-05-26T14:27:56: ⚡ Environment: development
+2025-05-26T14:27:56: ============================================================
+2025-05-26T14:27:57: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9829c7asm16391060b3a.85 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9829c7asm16391060b3a.85 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:27:59: ============================================================
+2025-05-26T14:27:59: 🚀 DoGether Backend Server Started!
+2025-05-26T14:27:59: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:27:59: 📧 Email Service: nodemailer
+2025-05-26T14:27:59: ⚡ Environment: development
+2025-05-26T14:27:59: ============================================================
+2025-05-26T14:27:59: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3111f01c22csm3780154a91.2 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3111f01c22csm3780154a91.2 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:30:48: ============================================================
+2025-05-26T14:30:48: 🚀 DoGether Backend Server Started!
+2025-05-26T14:30:48: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:30:48: 📧 Email Service: nodemailer
+2025-05-26T14:30:48: ⚡ Environment: development
+2025-05-26T14:30:48: ============================================================
+2025-05-26T14:30:49: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2346b529befsm7593105ad.95 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2346b529befsm7593105ad.95 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:30:50: ============================================================
+2025-05-26T14:30:50: 🚀 DoGether Backend Server Started!
+2025-05-26T14:30:50: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:30:50: 📧 Email Service: nodemailer
+2025-05-26T14:30:50: ⚡ Environment: development
+2025-05-26T14:30:50: ============================================================
+2025-05-26T14:30:51: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2343f8e2ecasm19603965ad.218 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2343f8e2ecasm19603965ad.218 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:32:53: ============================================================
+2025-05-26T14:32:53: 🚀 DoGether Backend Server Started!
+2025-05-26T14:32:53: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:32:53: 📧 Email Service: nodemailer
+2025-05-26T14:32:53: ⚡ Environment: development
+2025-05-26T14:32:53: ============================================================
+2025-05-26T14:32:53: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b2c37301fbesm382825a12.64 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b2c37301fbesm382825a12.64 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:34:38: ============================================================
+2025-05-26T14:34:38: 🚀 DoGether Backend Server Started!
+2025-05-26T14:34:38: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:34:38: 📧 Email Service: nodemailer
+2025-05-26T14:34:38: ⚡ Environment: development
+2025-05-26T14:34:38: ============================================================
+2025-05-26T14:34:39: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-234180b2dacsm33929435ad.126 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-234180b2dacsm33929435ad.126 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:34:52: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:34:52: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:34:52.126Z
+2025-05-26T14:34:52: ============================================================
+2025-05-26T14:34:52: 🚀 DoGether Backend Server Started!
+2025-05-26T14:34:52: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:34:52: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:34:52: 📧 Email Service: nodemailer
+2025-05-26T14:34:52: ⚡ Environment: development
+2025-05-26T14:34:52: ============================================================
+2025-05-26T14:34:52: 
+2025-05-26T14:34:52: 📋 Available Endpoints:
+2025-05-26T14:34:52:   POST /api/auth/signup - 회원가입
+2025-05-26T14:34:52:   POST /api/auth/login - 로그인
+2025-05-26T14:34:52:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:34:52:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:34:52:   GET  /health - 헬스체크
+2025-05-26T14:34:52: ============================================================
+2025-05-26T14:34:52: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2342cafc853sm26086505ad.33 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2342cafc853sm26086505ad.33 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:35:01: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:35:01: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:35:01.681Z
+2025-05-26T14:35:01: ============================================================
+2025-05-26T14:35:01: 🚀 DoGether Backend Server Started!
+2025-05-26T14:35:01: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:35:01: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:35:01: 📧 Email Service: nodemailer
+2025-05-26T14:35:01: ⚡ Environment: development
+2025-05-26T14:35:01: ============================================================
+2025-05-26T14:35:01: 
+2025-05-26T14:35:01: 📋 Available Endpoints:
+2025-05-26T14:35:01:   POST /api/auth/signup - 회원가입
+2025-05-26T14:35:01:   POST /api/auth/login - 로그인
+2025-05-26T14:35:01:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:35:01:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:35:01:   GET  /health - 헬스체크
+2025-05-26T14:35:01: ============================================================
+2025-05-26T14:35:02: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3115c327818sm1434964a91.26 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3115c327818sm1434964a91.26 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:35:53: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:35:53: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:35:53.359Z
+2025-05-26T14:35:53: ============================================================
+2025-05-26T14:35:53: 🚀 DoGether Backend Server Started!
+2025-05-26T14:35:53: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:35:53: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:35:53: 📧 Email Service: nodemailer
+2025-05-26T14:35:53: ⚡ Environment: development
+2025-05-26T14:35:53: ============================================================
+2025-05-26T14:35:53: 
+2025-05-26T14:35:53: 📋 Available Endpoints:
+2025-05-26T14:35:53:   POST /api/auth/signup - 회원가입
+2025-05-26T14:35:53:   POST /api/auth/login - 로그인
+2025-05-26T14:35:53:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:35:53:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:35:53:   GET  /health - 헬스체크
+2025-05-26T14:35:53: ============================================================
+2025-05-26T14:35:54: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf96573sm16286444a12.43 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf96573sm16286444a12.43 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:36:15: ❌ Failed to send verification email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23448a49b13sm16786845ad.61 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23448a49b13sm16786845ad.61 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:36:15: Send verification error: Error: Failed to send verification email
+    at EmailService.sendVerificationEmail (C:\Users\User\Desktop\Cursor\TaskMaster\back\src\services\emailService.js:62:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\User\Desktop\Cursor\TaskMaster\back\src\routes\auth.js:24:5
+2025-05-26T14:36:15: ::1 - - [26/May/2025:05:36:15 +0000] "POST /api/auth/send-verification HTTP/1.1" 500 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T14:36:50: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:36:50: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:36:50.127Z
+2025-05-26T14:36:50: ============================================================
+2025-05-26T14:36:50: 🚀 DoGether Backend Server Started!
+2025-05-26T14:36:50: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:36:50: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:36:50: 📧 Email Service: nodemailer
+2025-05-26T14:36:50: ⚡ Environment: development
+2025-05-26T14:36:50: ============================================================
+2025-05-26T14:36:50: 
+2025-05-26T14:36:50: 📋 Available Endpoints:
+2025-05-26T14:36:50:   POST /api/auth/signup - 회원가입
+2025-05-26T14:36:50:   POST /api/auth/login - 로그인
+2025-05-26T14:36:50:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:36:50:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:36:50:   GET  /health - 헬스체크
+2025-05-26T14:36:50: ============================================================
+2025-05-26T14:36:51: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2342cafc80bsm26066135ad.15 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2342cafc80bsm26066135ad.15 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:37:03: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:37:03: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:37:03.634Z
+2025-05-26T14:37:03: ============================================================
+2025-05-26T14:37:03: 🚀 DoGether Backend Server Started!
+2025-05-26T14:37:03: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:37:03: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:37:03: 📧 Email Service: nodemailer
+2025-05-26T14:37:03: ⚡ Environment: development
+2025-05-26T14:37:03: ============================================================
+2025-05-26T14:37:03: 
+2025-05-26T14:37:03: 📋 Available Endpoints:
+2025-05-26T14:37:03:   POST /api/auth/signup - 회원가입
+2025-05-26T14:37:03:   POST /api/auth/login - 로그인
+2025-05-26T14:37:03:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:37:03:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:37:03:   GET  /health - 헬스체크
+2025-05-26T14:37:03: ============================================================
+2025-05-26T14:37:04: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341e8ca46bsm31241125ad.115 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2341e8ca46bsm31241125ad.115 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:37:06: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:37:06: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:37:06.849Z
+2025-05-26T14:37:06: ============================================================
+2025-05-26T14:37:06: 🚀 DoGether Backend Server Started!
+2025-05-26T14:37:06: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:37:06: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:37:06: 📧 Email Service: nodemailer
+2025-05-26T14:37:06: ⚡ Environment: development
+2025-05-26T14:37:06: ============================================================
+2025-05-26T14:37:06: 
+2025-05-26T14:37:06: 📋 Available Endpoints:
+2025-05-26T14:37:06:   POST /api/auth/signup - 회원가입
+2025-05-26T14:37:06:   POST /api/auth/login - 로그인
+2025-05-26T14:37:06:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:37:06:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:37:06:   GET  /health - 헬스체크
+2025-05-26T14:37:06: ============================================================
+2025-05-26T14:37:07: ❌ Email service connection failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9876d39sm16828377b3a.146 - gsmtp
+    at SMTPConnection._formatError (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a9876d39sm16828377b3a.146 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+2025-05-26T14:39:42: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:43: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:43: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:43: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:43: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:43: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:44: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:44: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:44: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:44: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:45: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:45: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:45: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:45: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:46: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:46: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:46: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:46: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:46: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:47: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:47: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:47: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:47: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:47: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:48: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:48: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:48: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:48: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:49: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:49: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:49: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:49: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:50: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:50: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:50: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:50: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:51: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:51: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:51: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:51: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:52: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:52: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:52: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:52: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:52: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:52: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:53: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:53: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:53: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:53: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:54: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:54: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:54: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:54: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:55: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:55: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:55: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:55: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:56: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:56: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:56: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:56: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:39:57: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:39:57: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:35: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:35: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:35: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:35: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:35: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:35: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:36: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:36: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:36: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:36: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:37: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:37: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:37: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:37: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:38: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:38: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:38: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:38: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:38: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:38: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:39: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:39: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:39: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:39: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:40: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:40: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:40: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:40: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:41: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:41: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:41: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:41: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:41: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:42: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:42: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:42: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:42: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:43: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:43: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:43: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:43: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:43: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:44: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:44: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:44: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:44: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:45: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:45: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:45: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:45: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:46: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:46: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:46: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:46: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:47: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:47: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:47: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:47: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:48: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:48: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:48: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:48: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:49: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:49: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:50: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:50: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:50: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:50: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:50: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:51: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:51: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:51: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:51: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:51: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:52: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:52: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:52: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:52: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:53: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:53: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:53: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:53: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:54: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:54: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:54: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:54: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:55: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:55: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:55: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:55: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:40:56: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:40:56: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:18: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:18: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:19: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:19: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:19: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:19: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:20: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:20: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:20: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:20: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:21: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:21: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:21: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:21: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:22: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:22: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:22: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:22: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:22: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:23: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:23: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:23: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:23: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:23: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:24: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:24: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:24: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:24: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:25: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:25: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:25: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:25: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:33: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:33: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:34: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:34: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:34: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:34: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:35: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:35: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:35: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:35: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:36: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:36: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:36: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:36: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:36: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:37: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:37: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:37: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:37: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:37: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:38: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:38: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:38: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:38: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:39: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:39: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:39: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:39: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:40: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:40: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:40: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:40: ❌ PostgreSQL 데이터베이스 연결 실패: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2025-05-26T14:41:55: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:41:55: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:41:55.770Z
+2025-05-26T14:41:55: ============================================================
+2025-05-26T14:41:55: 🚀 DoGether Backend Server Started!
+2025-05-26T14:41:55: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:41:55: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:41:55: 📧 Email Service: nodemailer
+2025-05-26T14:41:55: ⚡ Environment: development
+2025-05-26T14:41:55: ============================================================
+2025-05-26T14:41:55: 
+2025-05-26T14:41:55: 📋 Available Endpoints:
+2025-05-26T14:41:55:   POST /api/auth/signup - 회원가입
+2025-05-26T14:41:55:   POST /api/auth/login - 로그인
+2025-05-26T14:41:55:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:41:55:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:41:55:   GET  /health - 헬스체크
+2025-05-26T14:41:55: ============================================================
+2025-05-26T14:41:57: ✅ Email service connected successfully
+2025-05-26T14:42:14: 📮 Gmail 발송 완료! 메시지 ID: <66602c3a-25a4-561e-143d-bdf3b0b60b37@gmail.com>
+2025-05-26T14:42:14: 🎉 이메일 인증 발송 성공! 📧 tkaqkrrhf11@gmail.com → 인증 이메일이 발송되었습니다.
+2025-05-26T14:42:14: ::1 - - [26/May/2025:05:42:14 +0000] "POST /api/auth/send-verification HTTP/1.1" 200 65 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T14:42:29: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      UPDATE users \n' +
+    '      SET email_verified = true, email_verification_token = NULL, email_verification_expires = NULL, updated_at = NOW()\n' +
+    '      WHERE email_verification_token = $1 AND email_verification_expires > NOW()\n' +
+    '      RETURNING id, email, name\n' +
+    '    ',
+  duration: '37ms',
+  rows: 0
+}
+2025-05-26T14:42:29: ::1 - - [26/May/2025:05:42:29 +0000] "POST /api/auth/verify-email HTTP/1.1" 400 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T14:43:43: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:43:43.699Z
+2025-05-26T14:43:43: ::1 - - [26/May/2025:05:43:43 +0000] "GET /health HTTP/1.1" 200 136 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; ko-KR) WindowsPowerShell/5.1.22621.2506"
+2025-05-26T14:43:57: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:43:57.074Z
+2025-05-26T14:43:57: ::1 - - [26/May/2025:05:43:57 +0000] "GET /health HTTP/1.1" 200 136 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; ko-KR) WindowsPowerShell/5.1.22621.2506"
+2025-05-26T14:44:47: SyntaxError: Bad escaped character in JSON at position 9 (line 1 column 10)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\User\Desktop\Cursor\TaskMaster\back\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-05-26T14:44:47: ::1 - - [26/May/2025:05:44:47 +0000] "POST /api/auth/signup HTTP/1.1" 500 33 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; ko-KR) WindowsPowerShell/5.1.22621.2506"
+2025-05-26T14:44:58: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:44:58: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:44:58.891Z
+2025-05-26T14:44:58: ============================================================
+2025-05-26T14:44:58: 🚀 DoGether Backend Server Started!
+2025-05-26T14:44:58: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:44:58: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:44:58: 📧 Email Service: nodemailer
+2025-05-26T14:44:58: ⚡ Environment: development
+2025-05-26T14:44:58: ============================================================
+2025-05-26T14:44:58: 
+2025-05-26T14:44:58: 📋 Available Endpoints:
+2025-05-26T14:44:58:   POST /api/auth/signup - 회원가입
+2025-05-26T14:44:58:   POST /api/auth/login - 로그인
+2025-05-26T14:44:58:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:44:58:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:44:58:   GET  /health - 헬스체크
+2025-05-26T14:44:58: ============================================================
+2025-05-26T14:45:00: ✅ Email service connected successfully
+2025-05-26T14:45:01: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:45:01: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:45:01.157Z
+2025-05-26T14:45:01: ============================================================
+2025-05-26T14:45:01: 🚀 DoGether Backend Server Started!
+2025-05-26T14:45:01: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:45:01: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:45:01: 📧 Email Service: nodemailer
+2025-05-26T14:45:01: ⚡ Environment: development
+2025-05-26T14:45:01: ============================================================
+2025-05-26T14:45:01: 
+2025-05-26T14:45:01: 📋 Available Endpoints:
+2025-05-26T14:45:01:   POST /api/auth/signup - 회원가입
+2025-05-26T14:45:01:   POST /api/auth/login - 로그인
+2025-05-26T14:45:01:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:45:01:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:45:01:   GET  /health - 헬스체크
+2025-05-26T14:45:01: ============================================================
+2025-05-26T14:45:02: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:45:02: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:45:02.390Z
+2025-05-26T14:45:02: ============================================================
+2025-05-26T14:45:02: 🚀 DoGether Backend Server Started!
+2025-05-26T14:45:02: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:45:02: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:45:02: 📧 Email Service: nodemailer
+2025-05-26T14:45:02: ⚡ Environment: development
+2025-05-26T14:45:02: ============================================================
+2025-05-26T14:45:02: 
+2025-05-26T14:45:02: 📋 Available Endpoints:
+2025-05-26T14:45:02:   POST /api/auth/signup - 회원가입
+2025-05-26T14:45:02:   POST /api/auth/login - 로그인
+2025-05-26T14:45:02:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:45:02:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:45:02:   GET  /health - 헬스체크
+2025-05-26T14:45:02: ============================================================
+2025-05-26T14:45:03: ✅ Email service connected successfully
+2025-05-26T14:45:09: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:45:10: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:45:10.025Z
+2025-05-26T14:45:10: ============================================================
+2025-05-26T14:45:10: 🚀 DoGether Backend Server Started!
+2025-05-26T14:45:10: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:45:10: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:45:10: 📧 Email Service: nodemailer
+2025-05-26T14:45:10: ⚡ Environment: development
+2025-05-26T14:45:10: ============================================================
+2025-05-26T14:45:10: 
+2025-05-26T14:45:10: 📋 Available Endpoints:
+2025-05-26T14:45:10:   POST /api/auth/signup - 회원가입
+2025-05-26T14:45:10:   POST /api/auth/login - 로그인
+2025-05-26T14:45:10:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:45:10:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:45:10:   GET  /health - 헬스체크
+2025-05-26T14:45:10: ============================================================
+2025-05-26T14:45:11: ✅ Email service connected successfully
+2025-05-26T14:45:21: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:45:21: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:45:21.439Z
+2025-05-26T14:45:21: ============================================================
+2025-05-26T14:45:21: 🚀 DoGether Backend Server Started!
+2025-05-26T14:45:21: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:45:21: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:45:21: 📧 Email Service: nodemailer
+2025-05-26T14:45:21: ⚡ Environment: development
+2025-05-26T14:45:21: ============================================================
+2025-05-26T14:45:21: 
+2025-05-26T14:45:21: 📋 Available Endpoints:
+2025-05-26T14:45:21:   POST /api/auth/signup - 회원가입
+2025-05-26T14:45:21:   POST /api/auth/login - 로그인
+2025-05-26T14:45:21:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:45:21:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:45:21:   GET  /health - 헬스체크
+2025-05-26T14:45:21: ============================================================
+2025-05-26T14:45:22: ✅ Email service connected successfully
+2025-05-26T14:45:27: 🔍 쿼리 실행: {
+  text: 'SELECT * FROM users WHERE email = $1',
+  duration: '12ms',
+  rows: 0
+}
+2025-05-26T14:45:27: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      INSERT INTO users (email, password_hash, name, locale, created_at, updated_at)\n' +
+    '      VALUES ($1, $2, $3, $4, NOW(), NOW())\n' +
+    '      RETURNING id, email, name, locale, created_at\n' +
+    '    ',
+  duration: '2ms',
+  rows: 1
+}
+2025-05-26T14:45:27: 🎉 새 사용자 등록 성공! 👤 test3@example.com (ID: 3)
+2025-05-26T14:45:27: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      UPDATE users \n' +
+    '      SET email_verification_token = $1, email_verification_expires = $2, updated_at = NOW()\n' +
+    '      WHERE id = $3\n' +
+    '      RETURNING id\n' +
+    '    ',
+  duration: '1ms',
+  rows: 1
+}
+2025-05-26T14:45:30: 📮 Gmail 발송 완료! 메시지 ID: <9aa14b68-350d-8e61-ce2a-edfadf42e5bf@gmail.com>
+2025-05-26T14:45:30: ::1 - - [26/May/2025:05:45:30 +0000] "POST /api/auth/signup HTTP/1.1" 201 227 "-" "node-fetch"
+2025-05-26T14:45:49: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:45:49: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:45:49.605Z
+2025-05-26T14:45:49: ============================================================
+2025-05-26T14:45:49: 🚀 DoGether Backend Server Started!
+2025-05-26T14:45:49: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:45:49: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:45:49: 📧 Email Service: nodemailer
+2025-05-26T14:45:49: ⚡ Environment: development
+2025-05-26T14:45:49: ============================================================
+2025-05-26T14:45:49: 
+2025-05-26T14:45:49: 📋 Available Endpoints:
+2025-05-26T14:45:49:   POST /api/auth/signup - 회원가입
+2025-05-26T14:45:49:   POST /api/auth/login - 로그인
+2025-05-26T14:45:49:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:45:49:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:45:49:   GET  /health - 헬스체크
+2025-05-26T14:45:49: ============================================================
+2025-05-26T14:45:50: ✅ Email service connected successfully
+2025-05-26T14:45:51: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:45:51: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:45:51.663Z
+2025-05-26T14:45:51: ============================================================
+2025-05-26T14:45:51: 🚀 DoGether Backend Server Started!
+2025-05-26T14:45:51: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:45:51: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:45:51: 📧 Email Service: nodemailer
+2025-05-26T14:45:51: ⚡ Environment: development
+2025-05-26T14:45:51: ============================================================
+2025-05-26T14:45:51: 
+2025-05-26T14:45:51: 📋 Available Endpoints:
+2025-05-26T14:45:51:   POST /api/auth/signup - 회원가입
+2025-05-26T14:45:51:   POST /api/auth/login - 로그인
+2025-05-26T14:45:51:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:45:51:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:45:51:   GET  /health - 헬스체크
+2025-05-26T14:45:51: ============================================================
+2025-05-26T14:45:52: ✅ Email service connected successfully
+2025-05-26T14:46:00: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      UPDATE users \n' +
+    '      SET email_verified = true, email_verification_token = NULL, email_verification_expires = NULL, updated_at = NOW()\n' +
+    '      WHERE email_verification_token = $1 AND email_verification_expires > NOW()\n' +
+    '      RETURNING id, email, name\n' +
+    '    ',
+  duration: '12ms',
+  rows: 1
+}
+2025-05-26T14:46:00: ✅ 이메일 인증 완료! 🎊 test3@example.com (ID: 3) → 2025. 5. 26. 오후 2:46:00에 성공적으로 인증되었습니다.
+2025-05-26T14:46:00: ::1 - - [26/May/2025:05:46:00 +0000] "POST /api/auth/verify-email HTTP/1.1" 200 129 "-" "node-fetch"
+2025-05-26T14:46:10: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:46:10: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:46:10.830Z
+2025-05-26T14:46:10: ============================================================
+2025-05-26T14:46:10: 🚀 DoGether Backend Server Started!
+2025-05-26T14:46:10: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:46:10: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:46:10: 📧 Email Service: nodemailer
+2025-05-26T14:46:10: ⚡ Environment: development
+2025-05-26T14:46:10: ============================================================
+2025-05-26T14:46:10: 
+2025-05-26T14:46:10: 📋 Available Endpoints:
+2025-05-26T14:46:10:   POST /api/auth/signup - 회원가입
+2025-05-26T14:46:10:   POST /api/auth/login - 로그인
+2025-05-26T14:46:10:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:46:10:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:46:10:   GET  /health - 헬스체크
+2025-05-26T14:46:10: ============================================================
+2025-05-26T14:46:12: ✅ Email service connected successfully
+2025-05-26T14:46:12: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:46:12: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:46:12.825Z
+2025-05-26T14:46:12: ============================================================
+2025-05-26T14:46:12: 🚀 DoGether Backend Server Started!
+2025-05-26T14:46:12: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:46:12: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:46:12: 📧 Email Service: nodemailer
+2025-05-26T14:46:12: ⚡ Environment: development
+2025-05-26T14:46:12: ============================================================
+2025-05-26T14:46:12: 
+2025-05-26T14:46:12: 📋 Available Endpoints:
+2025-05-26T14:46:12:   POST /api/auth/signup - 회원가입
+2025-05-26T14:46:12:   POST /api/auth/login - 로그인
+2025-05-26T14:46:12:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:46:12:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:46:12:   GET  /health - 헬스체크
+2025-05-26T14:46:12: ============================================================
+2025-05-26T14:46:13: ✅ Email service connected successfully
+2025-05-26T14:46:19: 🔍 쿼리 실행: {
+  text: 'SELECT * FROM users WHERE email = $1',
+  duration: '3ms',
+  rows: 1
+}
+2025-05-26T14:46:20: 🔐 로그인 성공! 👤 test3@example.com (ID: 3)
+2025-05-26T14:46:20: ::1 - - [26/May/2025:05:46:20 +0000] "POST /api/auth/login HTTP/1.1" 200 378 "-" "node-fetch"
+2025-05-26T14:46:32: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:46:32: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:46:32.350Z
+2025-05-26T14:46:32: ============================================================
+2025-05-26T14:46:32: 🚀 DoGether Backend Server Started!
+2025-05-26T14:46:32: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:46:32: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:46:32: 📧 Email Service: nodemailer
+2025-05-26T14:46:32: ⚡ Environment: development
+2025-05-26T14:46:32: ============================================================
+2025-05-26T14:46:32: 
+2025-05-26T14:46:32: 📋 Available Endpoints:
+2025-05-26T14:46:32:   POST /api/auth/signup - 회원가입
+2025-05-26T14:46:32:   POST /api/auth/login - 로그인
+2025-05-26T14:46:32:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:46:32:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:46:32:   GET  /health - 헬스체크
+2025-05-26T14:46:32: ============================================================
+2025-05-26T14:46:33: ✅ Email service connected successfully
+2025-05-26T14:47:03: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      UPDATE users \n' +
+    '      SET email_verified = true, email_verification_token = NULL, email_verification_expires = NULL, updated_at = NOW()\n' +
+    '      WHERE email_verification_token = $1 AND email_verification_expires > NOW()\n' +
+    '      RETURNING id, email, name\n' +
+    '    ',
+  duration: '36ms',
+  rows: 0
+}
+2025-05-26T14:47:03: ::1 - - [26/May/2025:05:47:03 +0000] "POST /api/auth/verify-email HTTP/1.1" 400 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T14:47:11: 🔍 쿼리 실행: {
+  text: 'SELECT * FROM users WHERE email = $1',
+  duration: '1ms',
+  rows: 0
+}
+2025-05-26T14:47:12: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      INSERT INTO users (email, password_hash, name, locale, created_at, updated_at)\n' +
+    '      VALUES ($1, $2, $3, $4, NOW(), NOW())\n' +
+    '      RETURNING id, email, name, locale, created_at\n' +
+    '    ',
+  duration: '11ms',
+  rows: 1
+}
+2025-05-26T14:47:12: 🎉 새 사용자 등록 성공! 👤 tkaqkrrhf11@gmail.com (ID: 4)
+2025-05-26T14:47:12: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      UPDATE users \n' +
+    '      SET email_verification_token = $1, email_verification_expires = $2, updated_at = NOW()\n' +
+    '      WHERE id = $3\n' +
+    '      RETURNING id\n' +
+    '    ',
+  duration: '0ms',
+  rows: 1
+}
+2025-05-26T14:47:14: 📮 Gmail 발송 완료! 메시지 ID: <40fb2131-1cec-5da9-4536-0bb7b89530e4@gmail.com>
+2025-05-26T14:47:14: ::1 - - [26/May/2025:05:47:14 +0000] "POST /api/auth/signup HTTP/1.1" 201 223 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T14:47:25: 🔍 쿼리 실행: {
+  text: '\n' +
+    '      UPDATE users \n' +
+    '      SET email_verified = true, email_verification_token = NULL, email_verification_expires = NULL, updated_at = NOW()\n' +
+    '      WHERE email_verification_token = $1 AND email_verification_expires > NOW()\n' +
+    '      RETURNING id, email, name\n' +
+    '    ',
+  duration: '1ms',
+  rows: 1
+}
+2025-05-26T14:47:25: ✅ 이메일 인증 완료! 🎊 tkaqkrrhf11@gmail.com (ID: 4) → 2025. 5. 26. 오후 2:47:25에 성공적으로 인증되었습니다.
+2025-05-26T14:47:25: ::1 - - [26/May/2025:05:47:25 +0000] "POST /api/auth/verify-email HTTP/1.1" 200 125 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-05-26T14:59:08: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:59:08: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:59:08.320Z
+2025-05-26T14:59:08: ============================================================
+2025-05-26T14:59:08: 🚀 DoGether Backend Server Started!
+2025-05-26T14:59:08: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:59:08: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:59:08: 📧 Email Service: nodemailer
+2025-05-26T14:59:08: ⚡ Environment: development
+2025-05-26T14:59:08: ============================================================
+2025-05-26T14:59:08: 
+2025-05-26T14:59:08: 📋 Available Endpoints:
+2025-05-26T14:59:08:   POST /api/auth/signup - 회원가입
+2025-05-26T14:59:08:   POST /api/auth/login - 로그인
+2025-05-26T14:59:08:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:59:08:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:59:08:   GET  /health - 헬스체크
+2025-05-26T14:59:08: ============================================================
+2025-05-26T14:59:09: ✅ Email service connected successfully
+2025-05-26T14:59:10: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T14:59:10: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T05:59:10.684Z
+2025-05-26T14:59:10: ============================================================
+2025-05-26T14:59:10: 🚀 DoGether Backend Server Started!
+2025-05-26T14:59:10: 🌐 Server URL: http://localhost:5000
+2025-05-26T14:59:10: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T14:59:10: 📧 Email Service: nodemailer
+2025-05-26T14:59:10: ⚡ Environment: development
+2025-05-26T14:59:10: ============================================================
+2025-05-26T14:59:10: 
+2025-05-26T14:59:10: 📋 Available Endpoints:
+2025-05-26T14:59:10:   POST /api/auth/signup - 회원가입
+2025-05-26T14:59:10:   POST /api/auth/login - 로그인
+2025-05-26T14:59:10:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T14:59:10:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T14:59:10:   GET  /health - 헬스체크
+2025-05-26T14:59:10: ============================================================
+2025-05-26T14:59:11: ✅ Email service connected successfully
+2025-05-26T15:05:44: 🔄 PostgreSQL 데이터베이스 연결 확인 중...
+2025-05-26T15:05:44: ✅ PostgreSQL 데이터베이스 연결 성공: 2025-05-26T06:05:44.385Z
+2025-05-26T15:05:44: ============================================================
+2025-05-26T15:05:44: 🚀 DoGether Backend Server Started!
+2025-05-26T15:05:44: 🌐 Server URL: http://localhost:5000
+2025-05-26T15:05:44: 🗄️  Database: PostgreSQL (Connected)
+2025-05-26T15:05:44: 📧 Email Service: nodemailer
+2025-05-26T15:05:44: ⚡ Environment: development
+2025-05-26T15:05:44: ============================================================
+2025-05-26T15:05:44: 
+2025-05-26T15:05:44: 📋 Available Endpoints:
+2025-05-26T15:05:44:   POST /api/auth/signup - 회원가입
+2025-05-26T15:05:44:   POST /api/auth/login - 로그인
+2025-05-26T15:05:44:   POST /api/auth/verify-email - 이메일 인증
+2025-05-26T15:05:44:   POST /api/auth/send-verification - 인증 이메일 발송
+2025-05-26T15:05:44:   GET  /health - 헬스체크
+2025-05-26T15:05:44: ============================================================
+2025-05-26T15:05:45: ✅ Email service connected successfully
