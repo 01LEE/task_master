@@ -10,4 +10,31 @@
 
 # Allow essential files
 !README.md
-!.gitignore 
+!.gitignore
+
+# But exclude node_modules and other build/cache files
+back/node_modules/
+front/node_modules/
+**/node_modules/
+
+# Exclude build outputs
+back/dist/
+back/build/
+front/.next/
+front/out/
+front/dist/
+front/build/
+
+# Exclude logs and cache
+**/*.log
+**/.cache/
+**/.npm/
+**/.eslintcache
+
+# Exclude environment files
+back/.env
+front/.env
+front/.env.local
+front/.env.development.local
+front/.env.test.local
+front/.env.production.local 
